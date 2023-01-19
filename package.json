@@ -1,0 +1,28 @@
+{
+  "name": "wn-damirdambinov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "weather": "weather.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nastoiker/weatherCli.git"
+  },
+  "author": "Dambinov Damir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nastoiker/weatherCli/issues"
+  },
+  "homepage": "https://github.com/Nastoiker/weatherCli#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1",
+    "dedent-js": "^1.0.1"
+  }
+}
